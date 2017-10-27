@@ -1,2 +1,2 @@
 # go-web-api
-A basic RESTful API using Golang for reference.
+A basic RESTful API boilerplate for Golang.
